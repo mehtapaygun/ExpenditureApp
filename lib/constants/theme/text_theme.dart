@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 final class AppTextTheme {
-  AppTextTheme(String num, {required TextStyle style});
-
   static Widget xSmall(String text, BuildContext context,
       {TextAlign? textAlign, FontWeight? fontWeight, Color? color}) {
     return Text(

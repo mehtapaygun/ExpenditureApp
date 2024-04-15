@@ -11,6 +11,7 @@ class WalletPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
+        AppTextTheme.kanit("Kredi Kartlarım", context),
         const Expanded(flex: 5, child: CreditCard()),
         Expanded(
             flex: 2,
@@ -18,7 +19,7 @@ class WalletPage extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 AppTextTheme.kanit(
-                    "₺1,250,453.02",
+                    "₺30,453.02",
                     fontWeight: FontWeight.w900,
                     size: 20,
                     context),

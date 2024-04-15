@@ -14,22 +14,22 @@ class CreditCard extends StatelessWidget {
             color: AppColor.indigo900,
             num: "1524 8576 8412 3594",
             time: "02/25",
-            name: "Ahmet Yılmaz"),
+            name: "Mehtap Aygün"),
         CreditCardWidget(
             color: AppColor.indigo200,
             num: "1524 8576 8412 3594",
             time: "02/25",
-            name: "Ahmet Yılmaz"),
+            name: "Mehtap Aygün"),
         CreditCardWidget(
             color: AppColor.grey200,
             num: "1524 8576 8412 3594",
             time: "02/25",
-            name: "Ahmet Yılmaz"),
+            name: "Mehtap Aygün"),
         CreditCardWidget(
             color: AppColor.black,
             num: "1524 8576 8412 3594",
             time: "02/25",
-            name: "Ahmet Yılmaz"),
+            name: "Mehtap Aygün"),
       ],
     );
   }
