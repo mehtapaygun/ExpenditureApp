@@ -1,6 +1,9 @@
 # Harcamalarınızı Kolayca Takip Edin: Expenditure App
 Artık harcamalarınızı kağıt üzerinde veya karmaşık tablolarla takip etmek zorunda değilsiniz. Expenditure App, kişisel finans yönetimini kolaylaştırmak için tasarlanmış kullanıcı dostu bir mobil uygulamadır.
 
+<img width="700" alt="login page" src=  "https://github.com/mehtapaygun/ExpenditureApp/assets/103212238/8a507430-d54e-41ae-b4f2-d3d494548b99"><br/>
+
+
 ### Neden Expenditure App?
 Basit ve Kullanıcı Dostu Arayüz
 Expenditure App'ın minimalist ve sezgisel arayüzü sayesinde harcamalarınızı hızlıca kaydedebilir ve yönetebilirsiniz. Karmaşık menülerle uğraşmak yerine, birkaç dokunuşla işlerinizi halledin.
